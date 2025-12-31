@@ -57,4 +57,3 @@ This project demonstrates **end-to-end data analysis**, starting from raw data c
 
 ---
 
-## 📁 Project Files
