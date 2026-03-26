@@ -57,3 +57,4 @@ This project demonstrates **end-to-end data analysis**, starting from raw data c
 
 ---
 
+![image alt](https://github.com/preetsolanki04/Sales-Analytics-Dashboard/blob/f7988c925e4aba295aa9efc1b6af50fc53022ae0/Sales%20Analysis.png)
