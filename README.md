@@ -59,6 +59,14 @@ This project demonstrates **end-to-end data analysis**, starting from raw data c
 
 ## Dashboard Preview
 
+** Sales Analysis Preview
+
 ![image alt](https://github.com/preetsolanki04/Sales-Analytics-Dashboard/blob/f7988c925e4aba295aa9efc1b6af50fc53022ae0/Sales%20Analysis.png)
+
+** Sales Performance Preview
+
 ![image alt](https://github.com/preetsolanki04/Sales-Analytics-Dashboard/blob/3070a5c56fb5b1c3ad22a4a142da9c6bc520a5d2/Sales%20Performance.png)
+
+** Supplier Overview
+
 ![image alt](https://github.com/preetsolanki04/Sales-Analytics-Dashboard/blob/a62d19346d1b91bc0b46f8d08fd22d9668a5cf34/Supplier%20Overview.png)
